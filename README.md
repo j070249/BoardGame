@@ -1,1 +1,1 @@
-# BoardGame
+# BoardGame - how to start
