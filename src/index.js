@@ -1,7 +1,7 @@
 import React from 'react';
 import { render } from "react-dom";
 import './index.css';
-import 'antd/dist/antd.css';
+import 'antd/dist/antd.min.css';
 import { BrowserRouter, Routes, Route, Redirect } from "react-router-dom";
 import HouseOntheHill from './containers/HouseOntheHill';
 import Home from './containers/Home';

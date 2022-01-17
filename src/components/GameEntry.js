@@ -9,7 +9,7 @@ const GameEntry = (props) => {
                     <img src={props.src} width="80%"/>
                 </Col>
                 <Col span={18} align="middle">
-                    <h2 style={{fontSize:20}}>
+                    <h2 style={{fontSize:20, color:"#FFFFFF"}}>
                         {props.title}
                     </h2>
                 </Col>
